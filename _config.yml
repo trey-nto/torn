@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          Torn Paper
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
 url:            "tornpaper.co"
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Trey Watson
+  url:          treyw.com
+  email:        
 
 # Build settings
 markdown:       kramdown
