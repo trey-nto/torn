@@ -80,9 +80,9 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 _This is an image with a caption_
 {% endhighlight %}
 
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+![Placeholder image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcbsnews2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2013%2F02%2F03%2F4d342da5-a645-11e2-a3f0-029118418759%2Fthumbnail%2F1240x826%2F120299929d777e8d86e15de45ebc68f4%2F01Beyonce_1.jpg&f=1&nofb=1&ipt=e9637d9de88fbc01d9ed2b62450560071bd65d3235cc7a8f4d358b244a59be43&ipo=images "Placeholder image")
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
+![Image with caption](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcbsnews2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2013%2F02%2F03%2F4d342da5-a645-11e2-a3f0-029118418759%2Fthumbnail%2F1240x826%2F120299929d777e8d86e15de45ebc68f4%2F01Beyonce_1.jpg&f=1&nofb=1&ipt=e9637d9de88fbc01d9ed2b62450560071bd65d3235cc7a8f4d358b244a59be43&ipo=images "Image with caption")
 _This is an image with a caption_
 
 # Code and Syntax Highlighting
